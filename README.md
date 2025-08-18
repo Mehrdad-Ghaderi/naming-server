@@ -43,5 +43,6 @@ https://hub.docker.com/u/mehrdadghaderi
 ### API GATEWAY examples
 
 - http://localhost:8765/api/v1/currency-exchange/from/USD/to/CAD
-- http://localhost:8765/api/v1/currency-conversion/from/USD/to/CAD/quantity/5
+
+[//]: # (- http://localhost:8765/api/v1/currency-conversion/from/USD/to/CAD/quantity/5)
 - http://localhost:8765/api/v1/currency-conversion-feign/from/USD/to/CAD/quantity/5
