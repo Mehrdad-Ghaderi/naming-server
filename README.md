@@ -30,7 +30,8 @@ https://hub.docker.com/u/mehrdadghaderi
 - http://localhost:8000/api/v1/currency-exchange/from/USD/to/CAD
 
 ### Currency Conversion Service examples
-- http://localhost:8100/api/v1/currency-conversion/from/USD/to/CAD/quantity/5
+
+[//]: # (- http://localhost:8100/api/v1/currency-conversion/from/USD/to/CAD/quantity/5)
 - http://localhost:8100/api/v1/currency-conversion-feign/from/USD/to/CAD/quantity/5
 
 ### Eureka
